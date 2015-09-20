@@ -5709,7 +5709,7 @@ ion-tabs.tabs-color-active-dark .tab-item {
 .platform-android .tabs-icon-top > .has-tabs-top, .platform-override .tabs-icon-top > .has-tabs-top {
   top: 127px; }
 
-.platform-android, .platform-override {
+/*.platform-android, .platform-override {
   @-webkit-keyframes border-expand {
     0% {
       opacity: 0;
@@ -5726,7 +5726,7 @@ ion-tabs.tabs-color-active-dark .tab-item {
     100% {
       opacity: 1;
       width: 100%; } }
- }
+ }*/
   .platform-android .tabs-top > .tabs, .platform-android .tabs.tabs-top, .platform-override .tabs-top > .tabs, .platform-override .tabs.tabs-top {
     top: 55px; }
   .platform-android .has-tabs-top, .platform-override .has-tabs-top {
